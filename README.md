@@ -19,7 +19,7 @@ Power Platform is for everyone, including you!
 3. 🧑‍💻 Extend the **Contoso Real Estate Linsings Admin** App
    - Add the Table **Listing Reservation**
    - Add a new screen and implement a basic reservation functionality
-   - Add this YAML Calendar and implement logic to show the appointments
+   - Add this [YAML Calendar](https://github.com/pnp/powerplatform-snippets/tree/main/power-apps/calendar/) and implement logic to show the appointments
   
 # 📚 Documentation
 📃 https://aka.ms/pp/git-integration
