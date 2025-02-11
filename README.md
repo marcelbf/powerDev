@@ -14,8 +14,8 @@ Power Platform is for everyone, including you!
 
 # Need Inspiration?
 
-1. 📦 Download [Workshop Starter Solution](./WorkshopStarterSolution/)
-2. 👉 Complete [Lab Prerequisites](./Labs/Lab%20Prerequisites.md)
+1. 📦 Download [Workshop Starter Solution](https://github.com/scottdurow/power-platform-pro-dev-workshop/tree/main/WorkshopStarterSolution)
+2. 👉 Import the solution and sample data - if you need help: [Lab Prerequisites](https://github.com/scottdurow/power-platform-pro-dev-workshop/blob/main/Labs/Lab%20Prerequisites.md)
 3. 🧑‍💻 Extend the **Contoso Real Estate Linsings Admin** App
    - Add the Table **Listing Reservation**
    - Add a new screen and implement a basic reservation functionality
