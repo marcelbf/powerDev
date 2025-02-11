@@ -6,7 +6,7 @@ Power Platform is for everyone, including you!
 
 # 📖 Quick Start / Resources 
 
-🧪 https://aka.ms/pp/pro-dev-workshop - Hand on workshop to learn how to extend Power Platform with traditional code.
+🧪 https://aka.ms/pp/pro-dev-workshop - Hands on workshop to learn how to extend Power Platform with traditional code.
 
 ⚒️ https://aka.ms/pp/contoso-real-estate - Full Stack Enterprise project, mixing traditional code with Power Platform.
 
