@@ -10,7 +10,7 @@ Power Platform is for everyone, including you!
 
 ⚒️ https://aka.ms/pp/contoso-real-estate - Full Stack Enterprise project, mixing traditional code with Power Platform.
 
-🧩 https://aka.ms/power-apps-snippets - Power Apps Code YAML code snippets to use with Canvas Power Apps.
+🧩 https://aka.ms/power-apps-snippets - Power Apps YAML Code Snippets to use with Canvas Power Apps.
 
 # Need Inspiration?
 
@@ -24,11 +24,15 @@ Power Platform is for everyone, including you!
 # 📚 Documentation
 📃 https://aka.ms/pp/git-integration
 
+📃 https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/power-apps-yaml
+
+📃 https://learn.microsoft.com/en-us/power-apps/guidance/coding-guidelines/code-readability
+
 📃 https://aka.ms/pp/pipelines
 
 📃 https://aka.ms/PipelinesLearningPath
 
-📃 https://learn.microsoft.com/en-us/power-apps/guidance/coding-guidelines/code-readability
+📃 https://learn.microsoft.com/en-us/power-platform/developer/get-started
 
 # 📺 For more information on Power Platform and Full-Stack Development:
 
