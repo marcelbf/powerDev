@@ -4,7 +4,7 @@ Are you a Software Developer? Front End? Back End? Full Stack?
 
 Power Platform is for everyone, including you!
 
-# 📖 Resources
+# 📖 Quick Start / Resources 
 
 🧪 https://aka.ms/pp/pro-dev-workshop - Hand on workshop to learn how to extend Power Platform with traditional code.
 
@@ -30,5 +30,8 @@ Power Platform is for everyone, including you!
 
 📃 https://learn.microsoft.com/en-us/power-apps/guidance/coding-guidelines/code-readability
 
+# 📺 For more information on Power Platform and Full-Stack Development:
+
+[![Using Power Platform to accelerate full-stack software development](https://img.youtube.com/vi/NYeQGuCJnzU/0.jpg)](https://www.youtube.com/watch?v=NYeQGuCJnzU)
 
 
