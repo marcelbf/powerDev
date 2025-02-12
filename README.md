@@ -38,4 +38,6 @@ Power Platform is for everyone, including you!
 
 [![Using Power Platform to accelerate full-stack software development](https://img.youtube.com/vi/NYeQGuCJnzU/0.jpg)](https://www.youtube.com/watch?v=NYeQGuCJnzU)
 
+## Disclaimer
 
+**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
